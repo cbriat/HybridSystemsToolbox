@@ -21,3 +21,5 @@
   - State-feedback control and observer-gain design for linear switched systems under dwell-time constraints
   - Include simulation and plotting scripts
   - The code corresponds to the paper "Convex conditions for the robust stabilization of uncertain switched systems with guaranteed minimum and mode-dependent dwell-time", Systems & Control Letters, Vol. 78, pp. 63-72, 2015 (https://doi.org/10.1016/j.sysconle.2015.01.012)
+
+For any feedback or comments, please contact me at corentin@briat.info.
