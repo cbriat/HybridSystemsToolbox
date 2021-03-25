@@ -13,8 +13,8 @@ If you use some of these fuctions please consider citing this github as
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/cbriat/HybridSystems}},
-}'''
-
+}
+```
 ### Toolbox for the analysis and the control of linear impulsive systems (https://github.com/cbriat/HybridSystems/tree/master/Autom2013_Impulsive)
   - Dwell-time analysis of deterministic linear impulsive systems
   - State-feedback control and observer-gain design for linear impulsive systems under dwell-time constraints
