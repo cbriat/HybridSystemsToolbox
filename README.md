@@ -12,7 +12,7 @@ If you use some of these fuctions please consider citing this github as
   year = {20XX},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/cbriat/HybridSystems}},
+  howpublished = {\url{https://github.com/cbriat/HybridSystemsToolbox}},
 }
 ```
 ### Toolbox for the analysis and the control of linear impulsive systems (https://github.com/cbriat/HybridSystems/tree/master/Autom2013_Impulsive)
