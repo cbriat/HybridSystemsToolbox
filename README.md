@@ -4,6 +4,17 @@
  
  ⚠️ **Requires the latest version of SOSTOOLS and the semidefinite programming solver SeDuMi**
 
+If you use some of these fuctions please consider citing this github as 
+
+@misc{CBriat:gitXX,
+  author = {C. Briat},
+  title = {Hybrid Systems Toolbox},
+  year = {20XX},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/cbriat/HybridSystems}},
+}
+
 ### Toolbox for the analysis and the control of linear impulsive systems (https://github.com/cbriat/HybridSystems/tree/master/Autom2013_Impulsive)
   - Dwell-time analysis of deterministic linear impulsive systems
   - State-feedback control and observer-gain design for linear impulsive systems under dwell-time constraints
